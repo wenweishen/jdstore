@@ -38,6 +38,8 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'letter_opener', group: :development
 gem 'aasm' #有限状态机
+gem 'carrierwave-qiniu'
+gem 'qiniu-rs'
 
 
 
