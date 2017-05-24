@@ -40,7 +40,7 @@ gem 'letter_opener', group: :development
 gem 'aasm' #有限状态机
 gem 'carrierwave-qiniu'
 gem 'qiniu-rs'
-
+gem 'figaro' #管理机密信息
 
 
 group :development, :test do
