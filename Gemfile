@@ -36,6 +36,9 @@ gem 'simple_form'
 gem 'font-awesome-rails'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'letter_opener', group: :development
+gem 'aasm' #有限状态机
+
 
 
 group :development, :test do
